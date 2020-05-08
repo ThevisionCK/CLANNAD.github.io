@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://uecequ.coding-pages.com</id>
+    <id>https://oldmemory.icu</id>
     <title>Old Memory</title>
-    <updated>2020-05-08T12:25:03.400Z</updated>
+    <updated>2020-05-08T12:25:47.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://uecequ.coding-pages.com"/>
-    <link rel="self" href="https://uecequ.coding-pages.com/atom.xml"/>
+    <link rel="alternate" href="https://oldmemory.icu"/>
+    <link rel="self" href="https://oldmemory.icu/atom.xml"/>
     <subtitle> 醉后不知天在水，满船清梦压星河</subtitle>
-    <logo>https://uecequ.coding-pages.com/images/avatar.png</logo>
-    <icon>https://uecequ.coding-pages.com/favicon.ico</icon>
+    <logo>https://oldmemory.icu/images/avatar.png</logo>
+    <icon>https://oldmemory.icu/favicon.ico</icon>
     <rights>All rights reserved 2020, Old Memory</rights>
     <entry>
         <title type="html"><![CDATA[神偷]]></title>
-        <id>https://uecequ.coding-pages.com/post/shen-tou/</id>
-        <link href="https://uecequ.coding-pages.com/post/shen-tou/">
+        <id>https://oldmemory.icu/post/shen-tou/</id>
+        <link href="https://oldmemory.icu/post/shen-tou/">
         </link>
         <updated>2020-05-02T08:18:56.000Z</updated>
         <content type="html"><![CDATA[<p>袁安奎依靠在巨大的雪枫树下喘着粗气，他逃了一夜终于甩掉了背后的官兵，这会儿才停下来认真端详着手中的那杆玉笔。</p>
@@ -27,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[巨鹿]]></title>
-        <id>https://uecequ.coding-pages.com/post/hello-gridea/</id>
-        <link href="https://uecequ.coding-pages.com/post/hello-gridea/">
+        <id>https://oldmemory.icu/post/hello-gridea/</id>
+        <link href="https://oldmemory.icu/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>云梦泽内，闻有巨鹿，得其角可证长生。</p>
