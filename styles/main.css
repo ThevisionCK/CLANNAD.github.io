@@ -2461,3 +2461,7 @@ ul.links li:hover .bg {
     header {background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url(http://clubimg.club.vmall.com/data/attachment/forum/202004/23/113901qn70el59wty9ibll.jpg);}
     
     
+    .valine {
+        display: none;
+      }
+    
